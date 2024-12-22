@@ -1,6 +1,6 @@
 ## Sample code to complete folder/file name using Tab key when input() in Python
 
-## Envaronment
+## Environment
 
 - Windows 11 Pro
 - Python 3.13.0
